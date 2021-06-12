@@ -2,6 +2,8 @@
 
 1)Install Gradio with the following in terminal
 ------  pip install gradio
+
+
 2)Run the model using the file "gradio_output.py" in terminal
 
 3)mask_detection_model_training.ipynb is used to drain a model that detects face mask on faces and it saves the model as "mask_detection.h5"
